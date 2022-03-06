@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="mindmelting.powerpal",
+    name="habuild.powerpal",
     version="0.3.0",
     author="Lawrence Hunt",
     author_email="lawrence.hunt@gmail.com",
