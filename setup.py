@@ -8,7 +8,7 @@ setup(
     version="0.3.0",
     author="Lawrence Hunt",
     author_email="lawrence.hunt@gmail.com",
-    url="https://github.com/mindmelting/powerpal",
+    url="https://github.com/habuild/powerpal",
     description="Simple Python client for calling Powerpal Readings API.",
     long_description=long_description,
     long_description_content_type="text/markdown",
